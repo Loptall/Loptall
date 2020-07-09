@@ -4,7 +4,7 @@
 
 Hello, I'm ***Loptall*** !
 
-I' m h.s. student, in Osaka/Japan. 16 years old.
+I' m a h.s. student, in Osaka/Japan. 16 years old.
 
 I usually attend to competitive programming contest.
 
