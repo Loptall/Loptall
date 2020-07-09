@@ -1,6 +1,6 @@
 # Thanks visiting my profile
 
-## WHO I AM
+## WHO I AM ☀️
 
 Hello, I'm ***Loptall*** !
 
@@ -10,15 +10,15 @@ I usually attend to competitive programming contest.
 
 Loving Rustlang, and strongly believing that it spreading in the wide-world soon!
 
-## Lately
+## Lately 🌳
 
 I have got green rating in AtCoder, and Cyan in Codeforces.
 
 In the close future, I would like to get good result in JOI2020!
 
-## Favorite
+## Favorite 💓
 
 - swimming
 - listening music
 
-### Please get contact with me
+### Please get contact with me 🤝
