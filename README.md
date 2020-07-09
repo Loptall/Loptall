@@ -1,20 +1,20 @@
-# Thanks visiting my profile
+# Thanks for visiting my profile
 
 ## WHO I AM ☀️
 
-Hello, I'm ***Loptall*** !
+Hello, I'm **Loptall** !
 
 I' m a h.s. student, in Osaka/Japan. 16 years old.
 
-I usually attend to competitive programming contest.
+I usually attend to competitive programming contests.
 
-Loving Rustlang, and strongly believing that it spreading in the wide-world soon!
+Loving Rustlang, and strongly believe its spreading over wide-world soon!
 
 ## Lately 🌳
 
 I have got Green rating in AtCoder, and Cyan in Codeforces.
 
-In the close future, I would like to get good result in JOI2020!
+In close future, I would like to get a good result in JOI2020!
 
 ## Favorite 💓
 
