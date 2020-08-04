@@ -12,7 +12,7 @@ Loving Rustlang, and strongly believe its spreading over wide-world soon!
 
 ## Lately 🌳
 
-I have got Green rating in AtCoder, and Cyan in Codeforces.
+I have got Cyan rating in AtCoder, and Cyan in Codeforces.
 
 In close future, I would like to get a good result in JOI2020!
 
