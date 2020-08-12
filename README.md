@@ -21,4 +21,7 @@ In close future, I would like to get a good result in JOI2020!
 - swimming
 - listening music
 
-### Please get contact with me 🤝
+## Contact
+
+- Twitter: @awpsyrhy
+- Discord: FalVy@4447
